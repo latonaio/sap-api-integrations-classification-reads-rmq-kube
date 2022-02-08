@@ -1,0 +1,24 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-classification-reads/SAP_API_Caller/caller.go#L67",
+	"function": "sap-api-integrations-classification-reads/SAP_API_Caller.(*SAPAPICaller).Class",
+	"level": "INFO",
+	"message": [
+		{
+			"Update_mc": true,
+			"ClassInternalID": "1",
+			"Language": "DE",
+			"ClassDescription": "Bestellung Gesamtfreigabestrategie",
+			"KeyDate": "2022-01-27T09:00:00+09:00",
+			"ClassLastChangedDateTime": ""
+		},
+		{
+			"Update_mc": true,
+			"ClassInternalID": "1",
+			"Language": "EN",
+			"ClassDescription": "PO Release at Header Level",
+			"KeyDate": "2022-01-27T09:00:00+09:00",
+			"ClassLastChangedDateTime": ""
+		}
+	],
+	"time": "2022-01-27T17:19:25+09:00"
+}
